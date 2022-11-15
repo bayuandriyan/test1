@@ -1,0 +1,101 @@
+#pra{
+   
+    text-align: center;
+    text-decoration: underline;
+}
+.pd{
+    font-weight: bold;
+    text-decoration: line-through;
+}
+.ar{
+    color:black;
+}
+.bay{
+    text-decoration: underline;
+}
+.aska{
+    text-decoration: overline;
+}
+.mau{
+    text-decoration: line-through;
+}
+.and{
+    font-weight: bold;
+    font-size: large;
+}
+.by{
+    font-weight: lighter;
+    text-align: center;
+}
+#abu {
+    text-decoration: line-through;
+    background-color: aqua;
+}
+.menu {
+    background: black;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    padding-top: 5px;
+    font-weight: bold;
+    font-size: 25px;
+    padding-bottom: 25px;
+}
+.konten {
+}
+.footer {
+    background:green ;
+    width: 100%;
+    height: 60px;
+}
+.mat {
+    background: red;
+    width: 80%;
+    height: 300px;
+}
+.kel {
+    float: left;
+    background: aqua;
+    width: 20%;
+    height: 300px;
+   
+}
+#menu {
+    background-color:red;
+    width: 100%;
+    height:100px ;
+    text-align:center;
+    font-size: large;
+    font-weight: 200px;
+    font-weight: bold;
+    padding-top: 75px;
+    padding-bottom: 5px;
+    border-style:ridge;
+}
+#konten {
+    background-color:red;
+    width: 100%;
+    height: 320px;
+    text-align: center;
+    font-weight: bold;
+    border-style:double;
+
+}
+#fotter {
+    background-color: yellow;
+    width: 100%;
+    height: 150px;
+    border-style:ridge;
+}
+#kon {
+    float:right;
+    background-color:aliceblue;
+    width: 80%;
+    height: 320px;
+    color: aliceblue;
+    text-align:left;
+    color: black;
+    border-style: inset;
+}
+
+  
